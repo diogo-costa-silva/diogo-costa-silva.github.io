@@ -2,11 +2,15 @@
   type: map
   contents:
     - name: Full Name
-      value: Giacomo Vagni
+      value: Diogo Silva
+    - name: Age
+      value: 25
     - name: Nationality
-      value: Swiss
+      value: Portuguese
     - name: Languages
-      value: English, French, Italian
+      value: Portuguese, English, Spanish
+    - name: Hobbies
+      value: Football, Motorcycles, Video Games, Nature
 
 - title: Education
   type: time_table
