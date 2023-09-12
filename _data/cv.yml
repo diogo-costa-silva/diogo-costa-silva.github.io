@@ -15,23 +15,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Sociology
-      institution: University of Oxford, Nuffield College, UK
-      year: 2020
-    - title: MA in Sociology
-      institution: University of Geneva, Switzerland
-      year: 2015
-    - title: BA in Sociology and Anthropology
-      institution: Free University of Brussels, Belgium
-      year: 2012
+    - title: Master's Degree in Information Systems Engineering and Management
+      institution: University of Minho, Guimarães, Portugal
+      year: 2016-2023
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Part-Time Assistant Professor of Sociology
-      institution: SPS, European University Institute
-      year: 2022
+    - title: Researcher with academic scholarship in the Rev@Construction project
+      institution: University of Minho, Guimarães, Portugal
+      year: 2022-2023
 
-    - title: Max Weber Fellow
-      institution: SPS, European University Institute
-      year: 2021-2022
