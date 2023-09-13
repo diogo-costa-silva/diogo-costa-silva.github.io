@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Max Weber Fellow, European University Institute</a>
+subtitle: <a href='#'>Ready for new challenges!</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address:
+  address: Located in Braga, Portugal
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my professional page!
+Welcome to my personal page!
 
+Hello, I'm Diogo and I'm a student finishing my master's thesis in Information Systems Engineering and Management who is looking to start his professional career in the area of ​​data analysis and science.
 I am currently a Max Weber Fellow and Part-Time Assistant Professor at the Department of Political and Social Sciences at the European University Institute in Florence. You can view my profil on the [EUI website](https://www.eui.eu/people?id=giacomo-vagni). I completed my PhD in Sociology at Nuffield College, University of Oxford.
 
-You can reach me at [giacomo.vagni@eui.eu](mailto:giacomo.vagni@eui.eu)
+You can reach me at [dccsilva98@gmail.com](mailto:dccsilva98@gmail.com)
 
 &nbsp;
 &nbsp;
