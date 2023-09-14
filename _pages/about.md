@@ -13,34 +13,23 @@ profile:
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
 ---
 
-Welcome to my personal page!
+Hello, I'm Diogo and welcome to my personal website!
+I'm a student finishing my master's thesis in Information Systems Engineering and Management who is looking to start his professional career in the area of ​​data analysis and science. 
 
-Hello, I'm Diogo and I'm a student finishing my master's thesis in Information Systems Engineering and Management who is looking to start his professional career in the area of ​​data analysis and science.
-<br>
-&nbsp;
-I am currently a Max Weber Fellow and Part-Time Assistant Professor at the Department of Political and Social Sciences at the European University Institute in Florence. You can view my profil on the [EUI website](https://www.eui.eu/people?id=giacomo-vagni). I completed my PhD in Sociology at Nuffield College, University of Oxford.
+I spent a year and a half on an academic scholarship, which allowed me to immerse myself in the world of data analysis and science.
+
+Although I have not stepped into the corporate world yet, I bring with me a genuine passion for leading and an intrinsic motivation to improve team dynamics. I am dedicated to ongoing learning and committed to meeting and exceeding collective objectives.
+
+In the technical domain, Python is my primary tool of trade, but I'm also familiar with the basic aspects of R and SQL. As I progress into the professional landscape, I am enthusiastic about applying and expanding these skills, and making meaningful contributions along the way.
+
+-------------
 
 You can reach me at [dccsilva98@gmail.com](mailto:dccsilva98@gmail.com)
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
--------------
-
-**Research interests**
-
-Families, inequality, time-use, demography, computational social science.
-
--------------
-
-**Research Summary**
-
-My research addresses the question of inequality in everyday life. I investigate how families, gender and social class structure people’s daily activities such as paid work, housework, leisure, sleep and care. My work lies at the intersection of Family Sociology, Gender Sociology, Social Stratification and Time-Use Research. My work is not only concerned with inequalities within countries but also comparatively explores inequalities between countries and through time. I use a number of quantitative surveys in my work, such as time-use surveys and household panel surveys, combining a variety of statistical methods, such as sequence analysis, fixed-effects models, synthetic control methods, etc.
 
 
 
--------------
+

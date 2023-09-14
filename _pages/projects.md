@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Discover my academic projects
+description: Explore the different projects I made to $$
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: [python, sql, r]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

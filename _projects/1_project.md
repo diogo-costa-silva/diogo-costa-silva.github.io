@@ -4,7 +4,7 @@ title: Time-Use Patterns and Stratification
 description:
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: python
 ---
 
 to come
