@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Inequality and Childcare
+title: Sales Dashboard
 description:
-img: assets/img/3.png
+img: assets/img/sales-dash.png
 importance: 2
-category: python
+category: streamlit
 ---
 
-to come
+A dashboard web app made with Streamlit.
+
+
+The app is available [here](https://sales-dashbooard.streamlit.app/)!

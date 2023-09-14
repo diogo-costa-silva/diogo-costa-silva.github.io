@@ -5,7 +5,7 @@ permalink: /projects/
 description: Explore the different projects I made to $$
 nav: true
 nav_order: 2
-display_categories: [python, sql, r]
+display_categories: [python, sql, r, streamlit]
 horizontal: true
 ---
 
