@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Explore the different projects I made to $$
+description: Here are some projects made by me to showcase my skills and interests.
 nav: true
 nav_order: 2
 display_categories: [python, sql, r, streamlit]
