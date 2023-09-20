@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Google Play Store Analysis
+title: Sales Data Analysis
 description:
 img: assets/img/fifa23.png
 importance: 1

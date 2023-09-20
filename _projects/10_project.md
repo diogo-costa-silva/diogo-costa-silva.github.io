@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Google Play Store Analysis
+title: Zomato Chennai Listings from 2020
 description:
 img: assets/img/fifa23.png
 importance: 1

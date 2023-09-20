@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Google Play Store Analysis
+title: Inequality in Education
 description:
 img: assets/img/fifa23.png
 importance: 1
