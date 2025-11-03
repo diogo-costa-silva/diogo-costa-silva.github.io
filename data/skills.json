@@ -1,329 +1,300 @@
 {
   "categories": [
     {
-      "id": "programming-scripting",
-      "name": "Programming & Scripting",
-      "icon": "💻",
-      "description": "Programming languages and scripting tools",
+      "id": "cloud-infrastructure",
+      "name": "Cloud & Infrastructure",
+      "icon": "☁️",
+      "description": "Cloud platforms, infrastructure automation and system administration",
       "skills": [
         {
-          "name": "Python",
-          "level": 5,
-          "levelLabel": "Expert",
-          "experience": "6+ years",
-          "featured": true
-        },
-        {
-          "name": "JavaScript",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "3+ years",
+          "name": "Microsoft Azure",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
           "featured": false
         },
         {
-          "name": "HTML",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
+          "name": "Azure Data Factory",
+          "level": 1,
+          "levelLabel": "Beginner",
+          "experience": "Learning",
           "featured": false
         },
         {
-          "name": "CSS",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
+          "name": "Azure Data Lake Storage",
+          "level": 1,
+          "levelLabel": "Beginner",
+          "experience": "Learning",
           "featured": false
         },
         {
-          "name": "SQL",
-          "level": 5,
-          "levelLabel": "Expert",
-          "experience": "6+ years",
+          "name": "Terraform",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
+          "featured": false
+        },
+        {
+          "name": "Ansible",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
+          "featured": false
+        },
+        {
+          "name": "Bash",
+          "level": 3,
+          "levelLabel": "Intermediate",
+          "experience": "~2 years",
+          "featured": false
+        },
+        {
+          "name": "Linux",
+          "level": 3,
+          "levelLabel": "Intermediate",
+          "experience": "~2 years",
           "featured": true
         }
       ]
     },
     {
-      "id": "data-processing",
-      "name": "Data Processing & Analysis",
-      "icon": "📊",
-      "description": "Data analysis, visualization and processing tools",
+      "id": "data-engineering-bigdata",
+      "name": "Data Engineering & Big Data",
+      "icon": "🗄️",
+      "description": "Large-scale data processing, databases and data storage solutions",
       "skills": [
         {
-          "name": "Pandas",
-          "level": 5,
-          "levelLabel": "Expert",
-          "experience": "6+ years",
+          "name": "Apache Spark/PySpark",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
+          "featured": false
+        },
+        {
+          "name": "Hadoop",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
+          "featured": false
+        },
+        {
+          "name": "HDFS",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
+          "featured": false
+        },
+        {
+          "name": "Hive",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
+          "featured": false
+        },
+        {
+          "name": "Cloudera Data Platform",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
+          "featured": false
+        },
+        {
+          "name": "PostgreSQL",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "~1 year",
+          "featured": false
+        },
+        {
+          "name": "MongoDB",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
+          "featured": false
+        },
+        {
+          "name": "SQL Server",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
+          "featured": false
+        },
+        {
+          "name": "SQL",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "~1 year",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "data-science",
+      "name": "Data Science & Analytics",
+      "icon": "📊",
+      "description": "Data analysis, visualization and machine learning tools",
+      "skills": [
+        {
+          "name": "Python",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "~1 year",
           "featured": true
+        },
+        {
+          "name": "Pandas",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "~1 year",
+          "featured": false
         },
         {
           "name": "NumPy",
-          "level": 5,
-          "levelLabel": "Expert",
-          "experience": "6+ years",
-          "featured": true
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "~1 year",
+          "featured": false
         },
         {
           "name": "Matplotlib",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "5+ years",
+          "level": 3,
+          "levelLabel": "Intermediate",
+          "experience": "~1 year",
           "featured": false
         },
         {
           "name": "Seaborn",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
+          "level": 3,
+          "levelLabel": "Intermediate",
+          "experience": "~1 year",
           "featured": false
         },
         {
           "name": "Streamlit",
           "level": 3,
           "levelLabel": "Intermediate",
-          "experience": "2+ years",
-          "featured": false
+          "experience": "~1 year",
+          "featured": true
         },
         {
           "name": "Jupyter Notebooks",
-          "level": 5,
-          "levelLabel": "Expert",
-          "experience": "6+ years",
-          "featured": true
+          "level": 3,
+          "levelLabel": "Intermediate",
+          "experience": "~1-2 years",
+          "featured": false
         },
         {
           "name": "Scikit-learn",
-          "level": 3,
-          "levelLabel": "Intermediate",
-          "experience": "3+ years",
+          "level": 1,
+          "levelLabel": "Beginner",
+          "experience": "Learning",
           "featured": false
         }
       ]
     },
     {
-      "id": "big-data",
-      "name": "Big Data Platforms",
-      "icon": "🗄️",
-      "description": "Large-scale data processing and storage",
+      "id": "web-development",
+      "name": "Web Development",
+      "icon": "💻",
+      "description": "Frontend, backend and API development",
       "skills": [
         {
-          "name": "Apache Spark/PySpark",
-          "level": 5,
-          "levelLabel": "Expert",
-          "experience": "5+ years",
-          "featured": true
-        },
-        {
-          "name": "Hadoop",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
-          "featured": false
-        },
-        {
-          "name": "HDFS",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
-          "featured": false
-        },
-        {
-          "name": "Hive",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
-          "featured": false
-        },
-        {
-          "name": "Cloudera Data Platform",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "3+ years",
-          "featured": false
-        },
-        {
-          "name": "Parquet",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
-          "featured": false
-        },
-        {
-          "name": "Delta Lake",
+          "name": "HTML",
           "level": 3,
           "levelLabel": "Intermediate",
-          "experience": "2+ years",
-          "featured": false
-        },
-        {
-          "name": "PostgreSQL",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "5+ years",
+          "experience": "~1-2 years",
           "featured": true
         },
         {
-          "name": "MongoDB",
+          "name": "CSS",
           "level": 3,
           "levelLabel": "Intermediate",
-          "experience": "2+ years",
-          "featured": false
-        },
-        {
-          "name": "SQL Server",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
-          "featured": false
-        }
-      ]
-    },
-    {
-      "id": "cloud-infrastructure",
-      "name": "Cloud & Infrastructure",
-      "icon": "☁️",
-      "description": "Cloud platforms and infrastructure automation",
-      "skills": [
-        {
-          "name": "Microsoft Azure",
-          "level": 5,
-          "levelLabel": "Expert",
-          "experience": "5+ years",
+          "experience": "~1-2 years",
           "featured": true
         },
         {
-          "name": "Azure Data Factory",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
-          "featured": false
-        },
-        {
-          "name": "Azure Data Lake Storage",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
-          "featured": false
-        },
-        {
-          "name": "Linux",
-          "level": 5,
-          "levelLabel": "Expert",
-          "experience": "6+ years",
-          "featured": true
-        },
-        {
-          "name": "Docker",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
-          "featured": true
-        },
-        {
-          "name": "Kubernetes",
+          "name": "JavaScript",
           "level": 3,
           "levelLabel": "Intermediate",
-          "experience": "2+ years",
-          "featured": false
-        },
-        {
-          "name": "Terraform",
-          "level": 5,
-          "levelLabel": "Expert",
-          "experience": "5+ years",
+          "experience": "~1-2 years",
           "featured": true
         },
-        {
-          "name": "Ansible",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
-          "featured": false
-        }
-      ]
-    },
-    {
-      "id": "devops",
-      "name": "DevOps & CI/CD",
-      "icon": "🔄",
-      "description": "CI/CD, automation and development tools",
-      "skills": [
-        {
-          "name": "Git",
-          "level": 5,
-          "levelLabel": "Expert",
-          "experience": "6+ years",
-          "featured": true
-        },
-        {
-          "name": "GitHub",
-          "level": 5,
-          "levelLabel": "Expert",
-          "experience": "6+ years",
-          "featured": true
-        },
-        {
-          "name": "GitHub Actions",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "3+ years",
-          "featured": false
-        },
-        {
-          "name": "Jenkins",
-          "level": 3,
-          "levelLabel": "Intermediate",
-          "experience": "2+ years",
-          "featured": false
-        },
-        {
-          "name": "VS Code",
-          "level": 5,
-          "levelLabel": "Expert",
-          "experience": "5+ years",
-          "featured": false
-        },
-        {
-          "name": "Bash",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "5+ years",
-          "featured": false
-        }
-      ]
-    },
-    {
-      "id": "backend-apis",
-      "name": "APIs & Web Frameworks",
-      "icon": "⚙️",
-      "description": "API development and web frameworks",
-      "skills": [
         {
           "name": "Node.js",
-          "level": 3,
-          "levelLabel": "Intermediate",
-          "experience": "2+ years",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
           "featured": false
         },
         {
           "name": "FastAPI",
-          "level": 3,
-          "levelLabel": "Intermediate",
-          "experience": "2+ years",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
           "featured": false
         },
         {
           "name": "Flask",
-          "level": 3,
-          "levelLabel": "Intermediate",
-          "experience": "3+ years",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "~1 year",
           "featured": false
         },
         {
           "name": "REST APIs",
-          "level": 4,
-          "levelLabel": "Advanced",
-          "experience": "4+ years",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "~1 year",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "devops-version-control",
+      "name": "DevOps & Version Control",
+      "icon": "🔄",
+      "description": "CI/CD pipelines, version control and containerization",
+      "skills": [
+        {
+          "name": "Git",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "~1-2 years",
+          "featured": true
+        },
+        {
+          "name": "GitHub",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "~1-2 years",
+          "featured": true
+        },
+        {
+          "name": "GitHub Actions",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
+          "featured": false
+        },
+        {
+          "name": "Jenkins",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "<1 year",
+          "featured": false
+        },
+        {
+          "name": "Docker",
+          "level": 2,
+          "levelLabel": "Elementary",
+          "experience": "~1 year",
+          "featured": false
+        },
+        {
+          "name": "Kubernetes",
+          "level": 1,
+          "levelLabel": "Beginner",
+          "experience": "Learning",
           "featured": false
         }
       ]
